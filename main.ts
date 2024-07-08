@@ -23,7 +23,7 @@ if (favorite_fruits.includes('orange')) {
 
 if (favorite_fruits.includes('pinApple')) {
      console.log('I also like Pinapple!');
- 
+  
 }
 
 
